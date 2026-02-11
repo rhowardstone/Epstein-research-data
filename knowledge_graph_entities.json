@@ -1,0 +1,7065 @@
+[
+  {
+    "id": 1,
+    "name": "Jeffrey Epstein",
+    "entity_type": "person",
+    "source_id": 1,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "perpetrator",
+      "occupation": "Financier",
+      "public_figure": true,
+      "legal_status": "deceased",
+      "ds10_mention_count": 3687
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 2,
+    "name": "Ghislaine Maxwell",
+    "entity_type": "person",
+    "source_id": 2,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "perpetrator",
+      "occupation": "Socialite",
+      "public_figure": true,
+      "legal_status": "convicted",
+      "ds10_mention_count": 181
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 3,
+    "name": "Leon Black",
+    "entity_type": "person",
+    "source_id": 3,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Private equity, Apollo Global Management",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 14,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; multiple victim allegations of sexual assault and trafficking; also alleged present during abuses with Barr"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 4,
+    "name": "Jes Staley",
+    "entity_type": "person",
+    "source_id": 4,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Banker, former Barclays CEO",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 14,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; victim allegation of forced sexual assault during massage"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 5,
+    "name": "Les Wexner",
+    "entity_type": "person",
+    "source_id": 5,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Retail executive, L Brands",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 4,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; victim allegation of financial/personal relationship"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 6,
+    "name": "Prince Andrew",
+    "entity_type": "person",
+    "source_id": 6,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "British Royal, Duke of York",
+      "public_figure": true,
+      "legal_status": "settled",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 14,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; multiple allegations including witness corroboration"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 7,
+    "name": "Alan Dershowitz",
+    "entity_type": "person",
+    "source_id": 7,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Attorney, Harvard Law Professor",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 7,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; victim allegation of massage on plane (victim noted as not a minor)"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 8,
+    "name": "Glenn Dubin",
+    "entity_type": "person",
+    "source_id": 8,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Hedge fund manager",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "ds10_mention_count": 2
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 9,
+    "name": "Jean-Luc Brunel",
+    "entity_type": "person",
+    "source_id": 9,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "perpetrator",
+      "occupation": "Model agent",
+      "public_figure": true,
+      "legal_status": "deceased"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 10,
+    "name": "Sarah Kellen",
+    "entity_type": "person",
+    "source_id": 10,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "enabler",
+      "occupation": "Assistant",
+      "public_figure": true,
+      "legal_status": "no_action"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 11,
+    "name": "Nadia Marcinkova",
+    "entity_type": "person",
+    "source_id": 11,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "enabler",
+      "occupation": "Assistant",
+      "public_figure": true,
+      "legal_status": "no_action"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 12,
+    "name": "Lesley Groff",
+    "entity_type": "person",
+    "source_id": 12,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "enabler",
+      "occupation": "Executive assistant",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "ds10_mention_count": 1008
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 13,
+    "name": "Bill Clinton",
+    "entity_type": "person",
+    "source_id": 13,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Former US President",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 12,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; FBI noted not a victim in case; allegation of orgy invitation (not attended)"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 14,
+    "name": "Donald Trump",
+    "entity_type": "person",
+    "source_id": 14,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "occupation": "Businessman/Politician",
+      "public_figure": true,
+      "legal_status": "no_action",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 16,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; victim allegations of sexual abuse"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 15,
+    "name": "Harvey Weinstein",
+    "entity_type": "person",
+    "source_id": 15,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "occupation": "Film producer",
+      "public_figure": true,
+      "legal_status": "convicted",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 0,
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; multiple victim allegations of massage coercion and sexual assault"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 16,
+    "name": "Epstein",
+    "entity_type": "person",
+    "source_id": 16,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 8326
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 17,
+    "name": "Maxwell",
+    "entity_type": "person",
+    "source_id": 17,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 456
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 18,
+    "name": "Black",
+    "entity_type": "person",
+    "source_id": 18,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 773
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 19,
+    "name": "Ross",
+    "entity_type": "person",
+    "source_id": 19,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 285
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 20,
+    "name": "Trump",
+    "entity_type": "person",
+    "source_id": 20,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 114
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 21,
+    "name": "Clinton",
+    "entity_type": "person",
+    "source_id": 21,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 20
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 22,
+    "name": "President Clinton",
+    "entity_type": "person",
+    "source_id": 22,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 23,
+    "name": "Andrew",
+    "entity_type": "person",
+    "source_id": 23,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 152
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 24,
+    "name": "Dershowitz",
+    "entity_type": "person",
+    "source_id": 24,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 11
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 25,
+    "name": "Weinstein",
+    "entity_type": "person",
+    "source_id": 25,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 6
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 26,
+    "name": "Ms. Maxwell",
+    "entity_type": "person",
+    "source_id": 26,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 27,
+    "name": "Alessi",
+    "entity_type": "person",
+    "source_id": 27,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 28,
+    "name": "Indyke",
+    "entity_type": "person",
+    "source_id": 28,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 364
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 29,
+    "name": "Kahn",
+    "entity_type": "person",
+    "source_id": 29,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1075
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 30,
+    "name": "Jeffrey E. Epstein",
+    "entity_type": "person",
+    "source_id": 30,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 4
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 31,
+    "name": "Richard D. Kahn",
+    "entity_type": "person",
+    "source_id": 31,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 32,
+    "name": "Darren K. Indyke",
+    "entity_type": "person",
+    "source_id": 32,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 15
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 33,
+    "name": "Gates",
+    "entity_type": "person",
+    "source_id": 33,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 13
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 34,
+    "name": "Groff",
+    "entity_type": "person",
+    "source_id": 34,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1753
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 35,
+    "name": "EPSTEIN",
+    "entity_type": "person",
+    "source_id": 35,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 8326
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 36,
+    "name": "JEFFREY EPSTEIN",
+    "entity_type": "person",
+    "source_id": 36,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 3687
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 37,
+    "name": "ross",
+    "entity_type": "person",
+    "source_id": 37,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 285
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 38,
+    "name": "rOSS",
+    "entity_type": "person",
+    "source_id": 38,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 285
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 39,
+    "name": "Richard Kahn",
+    "entity_type": "person",
+    "source_id": 39,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 496
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 40,
+    "name": "epstein",
+    "entity_type": "person",
+    "source_id": 40,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 8326
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 41,
+    "name": "gates",
+    "entity_type": "person",
+    "source_id": 41,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 13
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 42,
+    "name": "GHISLAINE MAXWELL",
+    "entity_type": "person",
+    "source_id": 42,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 181
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 43,
+    "name": "MAXWELL",
+    "entity_type": "person",
+    "source_id": 43,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 456
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 44,
+    "name": "black",
+    "entity_type": "person",
+    "source_id": 44,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 773
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 45,
+    "name": "ROSS",
+    "entity_type": "person",
+    "source_id": 45,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 285
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 46,
+    "name": "INDYKE",
+    "entity_type": "person",
+    "source_id": 46,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 364
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 47,
+    "name": "DARREN INDYKE",
+    "entity_type": "person",
+    "source_id": 47,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 145
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 48,
+    "name": "ePstein",
+    "entity_type": "person",
+    "source_id": 48,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 8326
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 49,
+    "name": "maxwell",
+    "entity_type": "person",
+    "source_id": 49,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 456
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 50,
+    "name": "Juan Alessi",
+    "entity_type": "person",
+    "source_id": 50,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 51,
+    "name": "trump",
+    "entity_type": "person",
+    "source_id": 51,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 114
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 52,
+    "name": "andrew",
+    "entity_type": "person",
+    "source_id": 52,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 152
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 53,
+    "name": "JEFFREY E. EPSTEIN",
+    "entity_type": "person",
+    "source_id": 53,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 4
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 54,
+    "name": "BLACK",
+    "entity_type": "person",
+    "source_id": 54,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 773
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 55,
+    "name": "Duke of York",
+    "entity_type": "person",
+    "source_id": 55,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 56,
+    "name": "GATES",
+    "entity_type": "person",
+    "source_id": 56,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 13
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 57,
+    "name": "DARREN K. INDYKE",
+    "entity_type": "person",
+    "source_id": 57,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 15
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 58,
+    "name": "dershowitz",
+    "entity_type": "person",
+    "source_id": 58,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 11
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 59,
+    "name": "jeffrey epstein",
+    "entity_type": "person",
+    "source_id": 59,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 3687
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 60,
+    "name": "Jeffrey epstein",
+    "entity_type": "person",
+    "source_id": 60,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 3687
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 61,
+    "name": "JEFFREY Epstein",
+    "entity_type": "person",
+    "source_id": 61,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 3687
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 62,
+    "name": "Brunel",
+    "entity_type": "person",
+    "source_id": 62,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 33
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 63,
+    "name": "Wexner",
+    "entity_type": "person",
+    "source_id": 63,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 16
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 64,
+    "name": "KAHN",
+    "entity_type": "person",
+    "source_id": 64,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1075
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 65,
+    "name": "RICHARD D. KAHN",
+    "entity_type": "person",
+    "source_id": 65,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 66,
+    "name": "ANDREW",
+    "entity_type": "person",
+    "source_id": 66,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 152
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 67,
+    "name": "Darren Indyke",
+    "entity_type": "person",
+    "source_id": 67,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 145
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 68,
+    "name": "GhISLAINE MAXWELL",
+    "entity_type": "person",
+    "source_id": 68,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 181
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 69,
+    "name": "Jeffrey EPSTEIN",
+    "entity_type": "person",
+    "source_id": 69,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 3687
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 70,
+    "name": "prince Andrew",
+    "entity_type": "person",
+    "source_id": 70,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 14
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 71,
+    "name": "Staley",
+    "entity_type": "person",
+    "source_id": 71,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 29
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 72,
+    "name": "weinstein",
+    "entity_type": "person",
+    "source_id": 72,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 6
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 73,
+    "name": "truMp",
+    "entity_type": "person",
+    "source_id": 73,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 114
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 74,
+    "name": "GHiSLAINE MAXWELL",
+    "entity_type": "person",
+    "source_id": 74,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 181
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 75,
+    "name": "MS. MAXWELL",
+    "entity_type": "person",
+    "source_id": 75,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 76,
+    "name": "GIUFFRE",
+    "entity_type": "person",
+    "source_id": 76,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 7
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 77,
+    "name": "Bill Gates",
+    "entity_type": "person",
+    "source_id": 77,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 78,
+    "name": "Jeffrey E. EPSTEIN",
+    "entity_type": "person",
+    "source_id": 78,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 4
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 79,
+    "name": "Darren K. INDYKE",
+    "entity_type": "person",
+    "source_id": 79,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 15
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 80,
+    "name": "Darren INDYKE",
+    "entity_type": "person",
+    "source_id": 80,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 145
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 81,
+    "name": "Dubin",
+    "entity_type": "person",
+    "source_id": 81,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 64
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 82,
+    "name": "Glen Dubin",
+    "entity_type": "person",
+    "source_id": 82,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "legal_status": "unknown",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 14,
+      "public_figure": true,
+      "occupation": "Hedge fund manager",
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; victim allegation of massage directed by Maxwell; also trust beneficiary"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 83,
+    "name": "ghislaine maxwell",
+    "entity_type": "person",
+    "source_id": 83,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 181
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 84,
+    "name": "Ghislaine MAXWELL",
+    "entity_type": "person",
+    "source_id": 84,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 181
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 85,
+    "name": "Giuffre",
+    "entity_type": "person",
+    "source_id": 85,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 7
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 86,
+    "name": "giuffre",
+    "entity_type": "person",
+    "source_id": 86,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 7
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 87,
+    "name": "prince andrew",
+    "entity_type": "person",
+    "source_id": 87,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 14
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 88,
+    "name": "wexner",
+    "entity_type": "person",
+    "source_id": 88,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 16
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 89,
+    "name": "clinton",
+    "entity_type": "person",
+    "source_id": 89,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 20
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 90,
+    "name": "ms. Maxwell",
+    "entity_type": "person",
+    "source_id": 90,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 91,
+    "name": "DERSHOWITZ",
+    "entity_type": "person",
+    "source_id": 91,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 11
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 92,
+    "name": "ALAN DERSHOWITZ",
+    "entity_type": "person",
+    "source_id": 92,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 7
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 93,
+    "name": "EpStein",
+    "entity_type": "person",
+    "source_id": 93,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 8326
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 94,
+    "name": "LEON BLACK",
+    "entity_type": "person",
+    "source_id": 94,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 14
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 95,
+    "name": "weInstein",
+    "entity_type": "person",
+    "source_id": 95,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 6
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 96,
+    "name": "STALEY",
+    "entity_type": "person",
+    "source_id": 96,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 29
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 97,
+    "name": "indyke",
+    "entity_type": "person",
+    "source_id": 97,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 364
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 98,
+    "name": "brunel",
+    "entity_type": "person",
+    "source_id": 98,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 33
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 99,
+    "name": "roSS",
+    "entity_type": "person",
+    "source_id": 99,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 285
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 100,
+    "name": "JES STALEY",
+    "entity_type": "person",
+    "source_id": 100,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 14
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 101,
+    "name": "kahn",
+    "entity_type": "person",
+    "source_id": 101,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 1075
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 102,
+    "name": "MaxwelL",
+    "entity_type": "person",
+    "source_id": 102,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 456
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 103,
+    "name": "WEXNER",
+    "entity_type": "person",
+    "source_id": 103,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 16
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 104,
+    "name": "VIRGINIA ROBERTS",
+    "entity_type": "person",
+    "source_id": 104,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 105,
+    "name": "staley",
+    "entity_type": "person",
+    "source_id": 105,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 29
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 106,
+    "name": "Maria Alessi",
+    "entity_type": "person",
+    "source_id": 106,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 107,
+    "name": "Eva Dubin",
+    "entity_type": "person",
+    "source_id": 107,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 29
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 108,
+    "name": "ClInton",
+    "entity_type": "person",
+    "source_id": 108,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "unknown",
+      "legal_status": "unknown",
+      "ds10_mention_count": 20
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 109,
+    "name": "Matt Grippi",
+    "entity_type": "person",
+    "source_id": 109,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 110,
+    "name": "Alan Greenberg",
+    "entity_type": "person",
+    "source_id": 110,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 111,
+    "name": "Kathy Greenberg",
+    "entity_type": "person",
+    "source_id": 111,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 112,
+    "name": "Sophie Biddle",
+    "entity_type": "person",
+    "source_id": 112,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 113,
+    "name": "Gwendolyn Beck",
+    "entity_type": "person",
+    "source_id": 113,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 114,
+    "name": "Chuck Schumi",
+    "entity_type": "person",
+    "source_id": 114,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 115,
+    "name": "David Anton",
+    "entity_type": "person",
+    "source_id": 115,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 116,
+    "name": "Deborah ?",
+    "entity_type": "person",
+    "source_id": 116,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 117,
+    "name": "Sharon Reynolds",
+    "entity_type": "person",
+    "source_id": 117,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 118,
+    "name": "Jim Cayne",
+    "entity_type": "person",
+    "source_id": 118,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 119,
+    "name": "Patricia Cayne",
+    "entity_type": "person",
+    "source_id": 119,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 120,
+    "name": "Alison Cayne",
+    "entity_type": "person",
+    "source_id": 120,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 121,
+    "name": "Warren ?",
+    "entity_type": "person",
+    "source_id": 121,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 122,
+    "name": "Karv Deweidy",
+    "entity_type": "person",
+    "source_id": 122,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 123,
+    "name": "Passenger (1)",
+    "entity_type": "person",
+    "source_id": 123,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 124,
+    "name": "Maria ?",
+    "entity_type": "person",
+    "source_id": 124,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 125,
+    "name": "Diedri Neal",
+    "entity_type": "person",
+    "source_id": 125,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 126,
+    "name": "Christine ?",
+    "entity_type": "person",
+    "source_id": 126,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 127,
+    "name": "Hazell-Iveagh, Clare",
+    "entity_type": "person",
+    "source_id": 127,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 128,
+    "name": "Frances ?",
+    "entity_type": "person",
+    "source_id": 128,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 129,
+    "name": "Passenger (4)",
+    "entity_type": "person",
+    "source_id": 129,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 130,
+    "name": "Passenger (3)",
+    "entity_type": "person",
+    "source_id": 130,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 131,
+    "name": "Elizabeth Elizabeth",
+    "entity_type": "person",
+    "source_id": 131,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 132,
+    "name": "A Teal",
+    "entity_type": "person",
+    "source_id": 132,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 133,
+    "name": "J Teal",
+    "entity_type": "person",
+    "source_id": 133,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 134,
+    "name": "O Teal",
+    "entity_type": "person",
+    "source_id": 134,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 135,
+    "name": "Catherine Finglas",
+    "entity_type": "person",
+    "source_id": 135,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 136,
+    "name": "Pamela Johanaoff",
+    "entity_type": "person",
+    "source_id": 136,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 137,
+    "name": "Katherina Kotzig",
+    "entity_type": "person",
+    "source_id": 137,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 138,
+    "name": "Ankie ?",
+    "entity_type": "person",
+    "source_id": 138,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 139,
+    "name": "Allison ?",
+    "entity_type": "person",
+    "source_id": 139,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 140,
+    "name": "Cheree ?",
+    "entity_type": "person",
+    "source_id": 140,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 141,
+    "name": "Tiffany ?",
+    "entity_type": "person",
+    "source_id": 141,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 142,
+    "name": "Celona ?",
+    "entity_type": "person",
+    "source_id": 142,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 143,
+    "name": "Passengers, No No Passengers",
+    "entity_type": "person",
+    "source_id": 143,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 144,
+    "name": "Ira Zicherman",
+    "entity_type": "person",
+    "source_id": 144,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 145,
+    "name": "Celina ?",
+    "entity_type": "person",
+    "source_id": 145,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 146,
+    "name": "Andy ?",
+    "entity_type": "person",
+    "source_id": 146,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 147,
+    "name": "Mandy ?",
+    "entity_type": "person",
+    "source_id": 147,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 148,
+    "name": "Ralph ?",
+    "entity_type": "person",
+    "source_id": 148,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 149,
+    "name": "David Rothman",
+    "entity_type": "person",
+    "source_id": 149,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 150,
+    "name": "Felicia Taylor",
+    "entity_type": "person",
+    "source_id": 150,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 151,
+    "name": "Passenger (2)",
+    "entity_type": "person",
+    "source_id": 151,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 152,
+    "name": "Celina Midelfart",
+    "entity_type": "person",
+    "source_id": 152,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 153,
+    "name": "Robin Plant",
+    "entity_type": "person",
+    "source_id": 153,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 154,
+    "name": "John Glenn",
+    "entity_type": "person",
+    "source_id": 154,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 155,
+    "name": "Cazaudumec, Didier",
+    "entity_type": "person",
+    "source_id": 155,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 156,
+    "name": "Darren ?",
+    "entity_type": "person",
+    "source_id": 156,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 157,
+    "name": "Jeff Schantz",
+    "entity_type": "person",
+    "source_id": 157,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 158,
+    "name": "Larry ?",
+    "entity_type": "person",
+    "source_id": 158,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 159,
+    "name": "Shannon ?",
+    "entity_type": "person",
+    "source_id": 159,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 160,
+    "name": "Joel Pashcow",
+    "entity_type": "person",
+    "source_id": 160,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 161,
+    "name": "Sharon ?",
+    "entity_type": "person",
+    "source_id": 161,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 162,
+    "name": "Andy Stewart",
+    "entity_type": "person",
+    "source_id": 162,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 163,
+    "name": "Leslie Gelb",
+    "entity_type": "person",
+    "source_id": 163,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 164,
+    "name": "Brian Mathis",
+    "entity_type": "person",
+    "source_id": 164,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 165,
+    "name": "Lester Pollack",
+    "entity_type": "person",
+    "source_id": 165,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 166,
+    "name": "Stephen ?",
+    "entity_type": "person",
+    "source_id": 166,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 167,
+    "name": "Sophie ?",
+    "entity_type": "person",
+    "source_id": 167,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 168,
+    "name": "Jeff Shantz",
+    "entity_type": "person",
+    "source_id": 168,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 169,
+    "name": "Clair ?",
+    "entity_type": "person",
+    "source_id": 169,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 170,
+    "name": "David Roth",
+    "entity_type": "person",
+    "source_id": 170,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 171,
+    "name": "Joe ?",
+    "entity_type": "person",
+    "source_id": 171,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 172,
+    "name": "Nathan Myarold",
+    "entity_type": "person",
+    "source_id": 172,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 173,
+    "name": "Bran ?",
+    "entity_type": "person",
+    "source_id": 173,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 174,
+    "name": "Nathan Myhrbold",
+    "entity_type": "person",
+    "source_id": 174,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 175,
+    "name": "Karen ?",
+    "entity_type": "person",
+    "source_id": 175,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 176,
+    "name": "Amanda ?",
+    "entity_type": "person",
+    "source_id": 176,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 177,
+    "name": "Anthony Barrett",
+    "entity_type": "person",
+    "source_id": 177,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 3
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 178,
+    "name": "Anton ?",
+    "entity_type": "person",
+    "source_id": 178,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 179,
+    "name": "Lynn Forester",
+    "entity_type": "person",
+    "source_id": 179,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 2
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 180,
+    "name": "Ben Forester",
+    "entity_type": "person",
+    "source_id": 180,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 181,
+    "name": "JoJo ?",
+    "entity_type": "person",
+    "source_id": 181,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 182,
+    "name": "Bob ?",
+    "entity_type": "person",
+    "source_id": 182,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 183,
+    "name": "Gary Kervey",
+    "entity_type": "person",
+    "source_id": 183,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 184,
+    "name": "Donna ?",
+    "entity_type": "person",
+    "source_id": 184,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 185,
+    "name": "Pamela Stevens",
+    "entity_type": "person",
+    "source_id": 185,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 186,
+    "name": "Suzanna ?",
+    "entity_type": "person",
+    "source_id": 186,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 187,
+    "name": "Deidre ?",
+    "entity_type": "person",
+    "source_id": 187,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 188,
+    "name": "Kathrina ?",
+    "entity_type": "person",
+    "source_id": 188,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 189,
+    "name": "Lynn ?",
+    "entity_type": "person",
+    "source_id": 189,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 190,
+    "name": "Lisa ?",
+    "entity_type": "person",
+    "source_id": 190,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 191,
+    "name": "Nadia ?",
+    "entity_type": "person",
+    "source_id": 191,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 192,
+    "name": "Jack Robertson",
+    "entity_type": "person",
+    "source_id": 192,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 193,
+    "name": "Ginger Southgate",
+    "entity_type": "person",
+    "source_id": 193,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 194,
+    "name": "Heather Mann",
+    "entity_type": "person",
+    "source_id": 194,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 195,
+    "name": "Steve Tuckerman",
+    "entity_type": "person",
+    "source_id": 195,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 196,
+    "name": "Judy Tuckerman",
+    "entity_type": "person",
+    "source_id": 196,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 197,
+    "name": "Yehura Koppel",
+    "entity_type": "person",
+    "source_id": 197,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 198,
+    "name": "Zipora Koppel",
+    "entity_type": "person",
+    "source_id": 198,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 199,
+    "name": "Dougle Shouetle",
+    "entity_type": "person",
+    "source_id": 199,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 200,
+    "name": "Alberto Pinto",
+    "entity_type": "person",
+    "source_id": 200,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 5
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 201,
+    "name": "Pascal ?",
+    "entity_type": "person",
+    "source_id": 201,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 202,
+    "name": "Gabrielle ?",
+    "entity_type": "person",
+    "source_id": 202,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 203,
+    "name": "Emmy Tayler",
+    "entity_type": "person",
+    "source_id": 203,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 204,
+    "name": "Gary Kerney",
+    "entity_type": "person",
+    "source_id": 204,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 25
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 205,
+    "name": "Mary Kerney",
+    "entity_type": "person",
+    "source_id": 205,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 206,
+    "name": "Joe Pacano",
+    "entity_type": "person",
+    "source_id": 206,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 207,
+    "name": "Gene ?",
+    "entity_type": "person",
+    "source_id": 207,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 208,
+    "name": "Manny ?",
+    "entity_type": "person",
+    "source_id": 208,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 209,
+    "name": "Mandy Ellison",
+    "entity_type": "person",
+    "source_id": 209,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 210,
+    "name": "Warren Spector",
+    "entity_type": "person",
+    "source_id": 210,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 211,
+    "name": "Warren Whippet",
+    "entity_type": "person",
+    "source_id": 211,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 212,
+    "name": "Margaret Whippet",
+    "entity_type": "person",
+    "source_id": 212,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 213,
+    "name": "Doug Schoettle",
+    "entity_type": "person",
+    "source_id": 213,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 6
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 214,
+    "name": "Sherrie Crape",
+    "entity_type": "person",
+    "source_id": 214,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 215,
+    "name": "Ellen Spencer",
+    "entity_type": "person",
+    "source_id": 215,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 216,
+    "name": "Lauren Pashcow",
+    "entity_type": "person",
+    "source_id": 216,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 217,
+    "name": "Kit Layborne",
+    "entity_type": "person",
+    "source_id": 217,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 218,
+    "name": "Gary Blackwell (Pilot)",
+    "entity_type": "person",
+    "source_id": 218,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 219,
+    "name": "Passenger (0) Test Flight",
+    "entity_type": "person",
+    "source_id": 219,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 220,
+    "name": "Heather Mitchell",
+    "entity_type": "person",
+    "source_id": 220,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 221,
+    "name": "Andrew Mitchell",
+    "entity_type": "person",
+    "source_id": 221,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 222,
+    "name": "Melinda Luntz",
+    "entity_type": "person",
+    "source_id": 222,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 223,
+    "name": "(ROXEBY",
+    "entity_type": "person",
+    "source_id": 223,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 224,
+    "name": "Paul Mellon",
+    "entity_type": "person",
+    "source_id": 224,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 225,
+    "name": "Carolyn ?",
+    "entity_type": "person",
+    "source_id": 225,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 226,
+    "name": "Oliver Sachs",
+    "entity_type": "person",
+    "source_id": 226,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 227,
+    "name": "Robin ?",
+    "entity_type": "person",
+    "source_id": 227,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 228,
+    "name": "Sarah Ferguson",
+    "entity_type": "person",
+    "source_id": 228,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 229,
+    "name": "TIX Titusville, FL, United States",
+    "entity_type": "person",
+    "source_id": 229,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 230,
+    "name": "X21 West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 230,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 231,
+    "name": "CRG Titusville, FL, United States",
+    "entity_type": "person",
+    "source_id": 231,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 232,
+    "name": "PBI Lakeland, FL, United States",
+    "entity_type": "person",
+    "source_id": 232,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 233,
+    "name": "Ginger ?",
+    "entity_type": "person",
+    "source_id": 233,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 234,
+    "name": "Mandy Lang",
+    "entity_type": "person",
+    "source_id": 234,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 235,
+    "name": "Cocoa Brown",
+    "entity_type": "person",
+    "source_id": 235,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 236,
+    "name": "Linda Pinto",
+    "entity_type": "person",
+    "source_id": 236,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 2
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 237,
+    "name": "Nadia Bjorlin",
+    "entity_type": "person",
+    "source_id": 237,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 238,
+    "name": "Steven ?",
+    "entity_type": "person",
+    "source_id": 238,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 239,
+    "name": "Chori Krove",
+    "entity_type": "person",
+    "source_id": 239,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 240,
+    "name": "Shannon Healy",
+    "entity_type": "person",
+    "source_id": 240,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 241,
+    "name": "Melanie Starves",
+    "entity_type": "person",
+    "source_id": 241,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 242,
+    "name": "Lynn Fontanella",
+    "entity_type": "person",
+    "source_id": 242,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 243,
+    "name": "Craig Adams",
+    "entity_type": "person",
+    "source_id": 243,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 244,
+    "name": "Ralph Ellison",
+    "entity_type": "person",
+    "source_id": 244,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 245,
+    "name": "Gary Roxburgh (Pilot)",
+    "entity_type": "person",
+    "source_id": 245,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 246,
+    "name": "Henry Rosovsky",
+    "entity_type": "person",
+    "source_id": 246,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 247,
+    "name": "Adam PerryLang",
+    "entity_type": "person",
+    "source_id": 247,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 248,
+    "name": "Ron ?",
+    "entity_type": "person",
+    "source_id": 248,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 249,
+    "name": "Passenger (0)",
+    "entity_type": "person",
+    "source_id": 249,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 250,
+    "name": "Joe Pagano",
+    "entity_type": "person",
+    "source_id": 250,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 3
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 251,
+    "name": "Larry Summers",
+    "entity_type": "person",
+    "source_id": 251,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 25
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 252,
+    "name": "Luba ?",
+    "entity_type": "person",
+    "source_id": 252,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 253,
+    "name": "Dara ?",
+    "entity_type": "person",
+    "source_id": 253,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 254,
+    "name": "Rhonda Sherer",
+    "entity_type": "person",
+    "source_id": 254,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 255,
+    "name": "Rhonda Sherer's Husband",
+    "entity_type": "person",
+    "source_id": 255,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 256,
+    "name": "Francois Verenia",
+    "entity_type": "person",
+    "source_id": 256,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 257,
+    "name": "Shelley Lewis",
+    "entity_type": "person",
+    "source_id": 257,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 258,
+    "name": "Tiffany Gramza",
+    "entity_type": "person",
+    "source_id": 258,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 259,
+    "name": "Phillipe Mugnier",
+    "entity_type": "person",
+    "source_id": 259,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 260,
+    "name": "Inca Doerrig",
+    "entity_type": "person",
+    "source_id": 260,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 261,
+    "name": "Kirsten ?",
+    "entity_type": "person",
+    "source_id": 261,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 262,
+    "name": "Charles ?",
+    "entity_type": "person",
+    "source_id": 262,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 263,
+    "name": "Monica ?",
+    "entity_type": "person",
+    "source_id": 263,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 264,
+    "name": "Daniel Heller",
+    "entity_type": "person",
+    "source_id": 264,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 265,
+    "name": "Alexia Wallert",
+    "entity_type": "person",
+    "source_id": 265,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 266,
+    "name": "Rich ?",
+    "entity_type": "person",
+    "source_id": 266,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 267,
+    "name": "Glen Dixon",
+    "entity_type": "person",
+    "source_id": 267,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 268,
+    "name": "Manny Duban",
+    "entity_type": "person",
+    "source_id": 268,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 269,
+    "name": "Dave Killary",
+    "entity_type": "person",
+    "source_id": 269,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 270,
+    "name": "Victoria Hazell",
+    "entity_type": "person",
+    "source_id": 270,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 271,
+    "name": "Marshall ?",
+    "entity_type": "person",
+    "source_id": 271,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 272,
+    "name": "Elizabeth ?",
+    "entity_type": "person",
+    "source_id": 272,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 273,
+    "name": "Shelly Harrison",
+    "entity_type": "person",
+    "source_id": 273,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 274,
+    "name": "Audrey Raimbault",
+    "entity_type": "person",
+    "source_id": 274,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 275,
+    "name": "MR. BROWN",
+    "entity_type": "person",
+    "source_id": 275,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 276,
+    "name": "Freya Wissing",
+    "entity_type": "person",
+    "source_id": 276,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 277,
+    "name": "Jean Gathy",
+    "entity_type": "person",
+    "source_id": 277,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 278,
+    "name": "PBI West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 278,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 279,
+    "name": "36653-G-1159B-N908JE-PBI-TIST-FOIA-1336-No Records ?",
+    "entity_type": "person",
+    "source_id": 279,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 280,
+    "name": "Christina Estrada",
+    "entity_type": "person",
+    "source_id": 280,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 281,
+    "name": "Leticia Birkholder",
+    "entity_type": "person",
+    "source_id": 281,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 282,
+    "name": "Michelle Michelle",
+    "entity_type": "person",
+    "source_id": 282,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 283,
+    "name": "Bodyguard ?",
+    "entity_type": "person",
+    "source_id": 283,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 284,
+    "name": "Alexandria ?",
+    "entity_type": "person",
+    "source_id": 284,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 285,
+    "name": "Peter Marino",
+    "entity_type": "person",
+    "source_id": 285,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 286,
+    "name": "Frederic Fekkai",
+    "entity_type": "person",
+    "source_id": 286,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 24
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 287,
+    "name": "Alexander Fekkai",
+    "entity_type": "person",
+    "source_id": 287,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 288,
+    "name": "Audrey Blaise",
+    "entity_type": "person",
+    "source_id": 288,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 289,
+    "name": "Jasmine ?",
+    "entity_type": "person",
+    "source_id": 289,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 290,
+    "name": "36738-G-1159B-N908JE-SAF-TEB-FOIA-1371-No Records ?",
+    "entity_type": "person",
+    "source_id": 290,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 291,
+    "name": "36742-G-1159B-N908JE-TEB-PBI-FOIA-1372-No Records ?",
+    "entity_type": "person",
+    "source_id": 291,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 292,
+    "name": "36746-G-1159B-N908JE-PBI-TVC-FOIA-1373-No Records ?",
+    "entity_type": "person",
+    "source_id": 292,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 293,
+    "name": "36747-G-1159B-N908JE-TVC-TEB-FOIA-1374-No Records ?",
+    "entity_type": "person",
+    "source_id": 293,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 294,
+    "name": "36749-G-1159B-N908JE-TEB-PBI-FOIA-1375-No Records ?",
+    "entity_type": "person",
+    "source_id": 294,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 295,
+    "name": "36752-G-1159B-N908JE-PBI-TIST-FOIA-1376-No Records ?",
+    "entity_type": "person",
+    "source_id": 295,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 296,
+    "name": "36757-G-1159B-N908JE-TIST-PBI-FOIA-1377-No Records ?",
+    "entity_type": "person",
+    "source_id": 296,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 297,
+    "name": "Kelly Spamm",
+    "entity_type": "person",
+    "source_id": 297,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 298,
+    "name": "Cheri Krape",
+    "entity_type": "person",
+    "source_id": 298,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 299,
+    "name": "Vor Holding",
+    "entity_type": "person",
+    "source_id": 299,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 300,
+    "name": "36819-G-1159B-N908JE-LGA-PBI-FOIA-1399-No Records ?",
+    "entity_type": "person",
+    "source_id": 300,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 301,
+    "name": "Ricardo Legoretta",
+    "entity_type": "person",
+    "source_id": 301,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 302,
+    "name": "Jessica Bauer",
+    "entity_type": "person",
+    "source_id": 302,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 303,
+    "name": "Tom Pritzker",
+    "entity_type": "person",
+    "source_id": 303,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 304,
+    "name": "(MARHAM",
+    "entity_type": "person",
+    "source_id": 304,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 305,
+    "name": "Cindy Lopez",
+    "entity_type": "person",
+    "source_id": 305,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 306,
+    "name": "Roger ?",
+    "entity_type": "person",
+    "source_id": 306,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 307,
+    "name": "TIST West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 307,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 308,
+    "name": "PBI Charlotte Amalie, St. Thomas,",
+    "entity_type": "person",
+    "source_id": 308,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 309,
+    "name": "36923-G-1159B-N908JE-PBI-SAF-FOIA-1448-No Records ?",
+    "entity_type": "person",
+    "source_id": 309,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 310,
+    "name": "36926-G-1159B-N908JE-SAF-VNY-FOIA-1449-No Records ?",
+    "entity_type": "person",
+    "source_id": 310,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 311,
+    "name": "36927-G-1159B-N908JE-VNY-TEB-FOIA-1450-No Records ?",
+    "entity_type": "person",
+    "source_id": 311,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 312,
+    "name": "36931-G-1159B-N908JE-TEB-BED-FOIA-1451-No Records ?",
+    "entity_type": "person",
+    "source_id": 312,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 313,
+    "name": "36932-G-1159B-N908JE-BED-PBI-FOIA-1452-No Records ?",
+    "entity_type": "person",
+    "source_id": 313,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 314,
+    "name": "36933-G-1159B-N908JE-PBI-ABY-FOIA-1453-No Records ?",
+    "entity_type": "person",
+    "source_id": 314,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 315,
+    "name": "36933-G-1159B-N908JE-ABY-PBI-FOIA-1454-No Records ?",
+    "entity_type": "person",
+    "source_id": 315,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 316,
+    "name": "36935-G-1159B-N908JE-PBI-TEB-FOIA-1455-No Records ?",
+    "entity_type": "person",
+    "source_id": 316,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 317,
+    "name": "36938-G-1159B-N908JE-TEB-PBI-FOIA-1456-No Records ?",
+    "entity_type": "person",
+    "source_id": 317,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 318,
+    "name": "36940-G-1159B-N908JE-PBI-TIST-FOIA-1457-No Records ?",
+    "entity_type": "person",
+    "source_id": 318,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 319,
+    "name": "36941-G-1159B-N908JE-TIST-PBI-FOIA-1458-No Records ?",
+    "entity_type": "person",
+    "source_id": 319,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 320,
+    "name": "36944-G-1159B-N908JE-PBI-MRY-FOIA-1459-No Records ?",
+    "entity_type": "person",
+    "source_id": 320,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 321,
+    "name": "36946-G-1159B-N908JE-MRY-VNY-FOIA-1460-No Records ?",
+    "entity_type": "person",
+    "source_id": 321,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 322,
+    "name": "36948-G-1159B-N908JE-VNY-SAF-FOIA-1461-No Records ?",
+    "entity_type": "person",
+    "source_id": 322,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 323,
+    "name": "36949-G-1159B-N908JE-SAF-TEB-FOIA-1462-No Records ?",
+    "entity_type": "person",
+    "source_id": 323,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 324,
+    "name": "36952-G-1159B-N908JE-TEB-PBI-FOIA-1463-No Records ?",
+    "entity_type": "person",
+    "source_id": 324,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 325,
+    "name": "LAL Lake City, FL, United States",
+    "entity_type": "person",
+    "source_id": 325,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 326,
+    "name": "PBI Leesburg, FL, United States",
+    "entity_type": "person",
+    "source_id": 326,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 327,
+    "name": "PBI Avon Park, FL, United States",
+    "entity_type": "person",
+    "source_id": 327,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 328,
+    "name": "PBI Key West, FL, United States",
+    "entity_type": "person",
+    "source_id": 328,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 329,
+    "name": "EYW West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 329,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 330,
+    "name": "PBI Fort Lauderdale, FL, United States",
+    "entity_type": "person",
+    "source_id": 330,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 331,
+    "name": "Koluk-Koylu, Banu Banu Koluk-",
+    "entity_type": "person",
+    "source_id": 331,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 332,
+    "name": "Cheri Lynch",
+    "entity_type": "person",
+    "source_id": 332,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 333,
+    "name": "Ed Tuttle",
+    "entity_type": "person",
+    "source_id": 333,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 334,
+    "name": "E JUTHLE?",
+    "entity_type": "person",
+    "source_id": 334,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 335,
+    "name": "FLL Miami, FL, United States",
+    "entity_type": "person",
+    "source_id": 335,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 336,
+    "name": "Marvin Minsky",
+    "entity_type": "person",
+    "source_id": 336,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 10
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 337,
+    "name": "Henry Jarecki",
+    "entity_type": "person",
+    "source_id": 337,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 2
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 338,
+    "name": "GAI Teterboro, NJ, United States",
+    "entity_type": "person",
+    "source_id": 338,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 339,
+    "name": "Lydia ?",
+    "entity_type": "person",
+    "source_id": 339,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 340,
+    "name": "Joann ?",
+    "entity_type": "person",
+    "source_id": 340,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 341,
+    "name": "Michelle ?",
+    "entity_type": "person",
+    "source_id": 341,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 342,
+    "name": "Kyle Tayler",
+    "entity_type": "person",
+    "source_id": 342,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 343,
+    "name": "27K Macon, GA, United States",
+    "entity_type": "person",
+    "source_id": 343,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 344,
+    "name": "JVY Columbus, OH, United States",
+    "entity_type": "person",
+    "source_id": 344,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 345,
+    "name": "MCN West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 345,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 346,
+    "name": "27K Jeffersonville, IN, United States",
+    "entity_type": "person",
+    "source_id": 346,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 347,
+    "name": "GNV Madison, IN, United States",
+    "entity_type": "person",
+    "source_id": 347,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 348,
+    "name": "TEB Charlotte Amalie, St. Thomas,",
+    "entity_type": "person",
+    "source_id": 348,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 349,
+    "name": "PBI Orlando, FL, United States",
+    "entity_type": "person",
+    "source_id": 349,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 350,
+    "name": "PBI Teterboro, NJ, United States",
+    "entity_type": "person",
+    "source_id": 350,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 351,
+    "name": "LAL West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 351,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 352,
+    "name": "MCN Lakeland, FL, United States",
+    "entity_type": "person",
+    "source_id": 352,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 353,
+    "name": "ISM Macon, GA, United States",
+    "entity_type": "person",
+    "source_id": 353,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 354,
+    "name": "TEB West Palm Beach, FL, United States",
+    "entity_type": "person",
+    "source_id": 354,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 355,
+    "name": "Naomi Campbell",
+    "entity_type": "person",
+    "source_id": 355,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 2
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 356,
+    "name": "Rebecca White",
+    "entity_type": "person",
+    "source_id": 356,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 357,
+    "name": "Anouk Lavalee",
+    "entity_type": "person",
+    "source_id": 357,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 358,
+    "name": "Anna Molova",
+    "entity_type": "person",
+    "source_id": 358,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 359,
+    "name": "David Bolivaras",
+    "entity_type": "person",
+    "source_id": 359,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 360,
+    "name": "Sheridan Gibson",
+    "entity_type": "person",
+    "source_id": 360,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 361,
+    "name": "Cristalle Wasche",
+    "entity_type": "person",
+    "source_id": 361,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 362,
+    "name": "E KATERINA GRINEVA",
+    "entity_type": "person",
+    "source_id": 362,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 363,
+    "name": "Taylor ?",
+    "entity_type": "person",
+    "source_id": 363,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 364,
+    "name": "Mike Donovan",
+    "entity_type": "person",
+    "source_id": 364,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 365,
+    "name": "AMA Jackson, MS, United States",
+    "entity_type": "person",
+    "source_id": 365,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 366,
+    "name": "ABQ Seattle, WA, United States",
+    "entity_type": "person",
+    "source_id": 366,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 367,
+    "name": "ZORRO Albuquerque, NM, United States",
+    "entity_type": "person",
+    "source_id": 367,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 368,
+    "name": "Fleur PerryLang",
+    "entity_type": "person",
+    "source_id": 368,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 369,
+    "name": "Jonathan Mano (Pilot)",
+    "entity_type": "person",
+    "source_id": 369,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 370,
+    "name": "Gil ?",
+    "entity_type": "person",
+    "source_id": 370,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 371,
+    "name": "Gurly ?",
+    "entity_type": "person",
+    "source_id": 371,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 372,
+    "name": "Robert ?",
+    "entity_type": "person",
+    "source_id": 372,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 373,
+    "name": "HPN Charlotte Amalie, St. Thomas,",
+    "entity_type": "person",
+    "source_id": 373,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 374,
+    "name": "Alexandria Dixon",
+    "entity_type": "person",
+    "source_id": 374,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 375,
+    "name": "Karen Casey",
+    "entity_type": "person",
+    "source_id": 375,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 376,
+    "name": "Steve ?",
+    "entity_type": "person",
+    "source_id": 376,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 377,
+    "name": "Bonnie ?",
+    "entity_type": "person",
+    "source_id": 377,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 378,
+    "name": "Julie Shay",
+    "entity_type": "person",
+    "source_id": 378,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 379,
+    "name": "ZORRO Santa Fe, NM, United States",
+    "entity_type": "person",
+    "source_id": 379,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 380,
+    "name": "Mglindallns E?",
+    "entity_type": "person",
+    "source_id": 380,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 381,
+    "name": "Edwardo ?",
+    "entity_type": "person",
+    "source_id": 381,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 382,
+    "name": "Geor Tintay?",
+    "entity_type": "person",
+    "source_id": 382,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 383,
+    "name": "Chauntae Davies",
+    "entity_type": "person",
+    "source_id": 383,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 384,
+    "name": "Bob Breslen (Pilot)",
+    "entity_type": "person",
+    "source_id": 384,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 385,
+    "name": "37318-B-727-31-N908JE-PBI-JFK-FOIA-071A-No Records ?",
+    "entity_type": "person",
+    "source_id": 385,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 386,
+    "name": "37322-B-727-31-N908JE-JFK-TIST-FOIA-072A-No Records ?",
+    "entity_type": "person",
+    "source_id": 386,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 387,
+    "name": "Brent Tindall (Chef)",
+    "entity_type": "person",
+    "source_id": 387,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 388,
+    "name": "Susan Hamblin",
+    "entity_type": "person",
+    "source_id": 388,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 389,
+    "name": "Julie Fierson",
+    "entity_type": "person",
+    "source_id": 389,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 390,
+    "name": "Fabriame Palheo",
+    "entity_type": "person",
+    "source_id": 390,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 391,
+    "name": "Andrea Mitrovich",
+    "entity_type": "person",
+    "source_id": 391,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 392,
+    "name": "MACKLA ?",
+    "entity_type": "person",
+    "source_id": 392,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 393,
+    "name": "MYLENE ?",
+    "entity_type": "person",
+    "source_id": 393,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 394,
+    "name": "Catherine Derby",
+    "entity_type": "person",
+    "source_id": 394,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 395,
+    "name": "Mylene Arm",
+    "entity_type": "person",
+    "source_id": 395,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 396,
+    "name": "Todd Meistor",
+    "entity_type": "person",
+    "source_id": 396,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 397,
+    "name": "LGB Long Beach, CA, United States",
+    "entity_type": "person",
+    "source_id": 397,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 398,
+    "name": "Marcinkova, Nadia Nadia",
+    "entity_type": "person",
+    "source_id": 398,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 399,
+    "name": "Teala Davies",
+    "entity_type": "person",
+    "source_id": 399,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 400,
+    "name": "Fran ?",
+    "entity_type": "person",
+    "source_id": 400,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 401,
+    "name": "Valdson Cotrin",
+    "entity_type": "person",
+    "source_id": 401,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 23
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 402,
+    "name": "MBPV Great Exuma, Bahamas",
+    "entity_type": "person",
+    "source_id": 402,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 403,
+    "name": "TIST Charlotte Amalie, St. Thomas,",
+    "entity_type": "person",
+    "source_id": 403,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 404,
+    "name": "Carolina ?",
+    "entity_type": "person",
+    "source_id": 404,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 405,
+    "name": "Jerry Goldsmith",
+    "entity_type": "person",
+    "source_id": 405,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 406,
+    "name": "Doug Band",
+    "entity_type": "person",
+    "source_id": 406,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 407,
+    "name": "Secret Service (4)",
+    "entity_type": "person",
+    "source_id": 407,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 408,
+    "name": "Ira Magaziner",
+    "entity_type": "person",
+    "source_id": 408,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 409,
+    "name": "Joe Novich",
+    "entity_type": "person",
+    "source_id": 409,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 410,
+    "name": "Jantelle Torie",
+    "entity_type": "person",
+    "source_id": 410,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 411,
+    "name": "Scott Rueber",
+    "entity_type": "person",
+    "source_id": 411,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 412,
+    "name": "Vick Lambro",
+    "entity_type": "person",
+    "source_id": 412,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 413,
+    "name": "Chris Camaros",
+    "entity_type": "person",
+    "source_id": 413,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 414,
+    "name": "Tom Payette",
+    "entity_type": "person",
+    "source_id": 414,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 415,
+    "name": "?, MORGAN\u00a0RRY MORGAN\u00a0RRY ?",
+    "entity_type": "person",
+    "source_id": 415,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 416,
+    "name": "Michael Durberry (Pilot)",
+    "entity_type": "person",
+    "source_id": 416,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 417,
+    "name": "Kimberly Burns",
+    "entity_type": "person",
+    "source_id": 417,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 418,
+    "name": "Brent Tindall",
+    "entity_type": "person",
+    "source_id": 418,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 419,
+    "name": "Steve Lister (Pilot)",
+    "entity_type": "person",
+    "source_id": 419,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 420,
+    "name": "Gary Roxbury",
+    "entity_type": "person",
+    "source_id": 420,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 421,
+    "name": "Manuela Stoetter",
+    "entity_type": "person",
+    "source_id": 421,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 422,
+    "name": "Larry Visoski",
+    "entity_type": "person",
+    "source_id": 422,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 90
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 423,
+    "name": "Bruce ?",
+    "entity_type": "person",
+    "source_id": 423,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 424,
+    "name": "Larry Morrison (Pilot)",
+    "entity_type": "person",
+    "source_id": 424,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 425,
+    "name": "Aline Weber",
+    "entity_type": "person",
+    "source_id": 425,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 426,
+    "name": "Nina Keita",
+    "entity_type": "person",
+    "source_id": 426,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 427,
+    "name": "Forest Sawyer",
+    "entity_type": "person",
+    "source_id": 427,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 428,
+    "name": "Steve Lester",
+    "entity_type": "person",
+    "source_id": 428,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 429,
+    "name": "Jennifer Kalin",
+    "entity_type": "person",
+    "source_id": 429,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 430,
+    "name": "Tami ?",
+    "entity_type": "person",
+    "source_id": 430,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 431,
+    "name": "Devonvoisin, Ariane",
+    "entity_type": "person",
+    "source_id": 431,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 432,
+    "name": "GOSMAN ?",
+    "entity_type": "person",
+    "source_id": 432,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 433,
+    "name": "Natalya Malyshov",
+    "entity_type": "person",
+    "source_id": 433,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 434,
+    "name": "SEMOINE ?",
+    "entity_type": "person",
+    "source_id": 434,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 435,
+    "name": "FLORA ?",
+    "entity_type": "person",
+    "source_id": 435,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 436,
+    "name": "ZSUIZSA ?",
+    "entity_type": "person",
+    "source_id": 436,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 437,
+    "name": "CZI FRIK?",
+    "entity_type": "person",
+    "source_id": 437,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 438,
+    "name": "Stefanie ?",
+    "entity_type": "person",
+    "source_id": 438,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 439,
+    "name": "Steve Miller",
+    "entity_type": "person",
+    "source_id": 439,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 440,
+    "name": "Larry Morrison",
+    "entity_type": "person",
+    "source_id": 440,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 441,
+    "name": "Jo-Jo Fontanella",
+    "entity_type": "person",
+    "source_id": 441,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 442,
+    "name": "David Mullen",
+    "entity_type": "person",
+    "source_id": 442,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 4
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 443,
+    "name": "Frank Gamble (Pilot)",
+    "entity_type": "person",
+    "source_id": 443,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 444,
+    "name": "Kristy Rodgers (Pilot)",
+    "entity_type": "person",
+    "source_id": 444,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 445,
+    "name": "Patsy Rodgers",
+    "entity_type": "person",
+    "source_id": 445,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 446,
+    "name": "Ralph Pascale (Pilot)",
+    "entity_type": "person",
+    "source_id": 446,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 447,
+    "name": "NATALIE ?",
+    "entity_type": "person",
+    "source_id": 447,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 448,
+    "name": "TIST Water Island, St. Thomas, United",
+    "entity_type": "person",
+    "source_id": 448,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 449,
+    "name": "PIA TRUSELL (Pilot)",
+    "entity_type": "person",
+    "source_id": 449,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 450,
+    "name": "Adriana Mucinska",
+    "entity_type": "person",
+    "source_id": 450,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 451,
+    "name": "Zina Broukis",
+    "entity_type": "person",
+    "source_id": 451,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 452,
+    "name": "Dana Burns",
+    "entity_type": "person",
+    "source_id": 452,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 453,
+    "name": "Neil Biggen",
+    "entity_type": "person",
+    "source_id": 453,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 454,
+    "name": "Pete Rathgeb",
+    "entity_type": "person",
+    "source_id": 454,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 455,
+    "name": "Colleen ?",
+    "entity_type": "person",
+    "source_id": 455,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 456,
+    "name": "Cresencia Valdez",
+    "entity_type": "person",
+    "source_id": 456,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 457,
+    "name": "Bill Hammond (Pilot)",
+    "entity_type": "person",
+    "source_id": 457,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 458,
+    "name": "Bill Murphy (Pilot)",
+    "entity_type": "person",
+    "source_id": 458,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 459,
+    "name": "Tatiana Kovylina",
+    "entity_type": "person",
+    "source_id": 459,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 460,
+    "name": "IAN ?",
+    "entity_type": "person",
+    "source_id": 460,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 461,
+    "name": "Jim Dowd",
+    "entity_type": "person",
+    "source_id": 461,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 462,
+    "name": "Alex Resnick",
+    "entity_type": "person",
+    "source_id": 462,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 463,
+    "name": "Natalie Simanova",
+    "entity_type": "person",
+    "source_id": 463,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 464,
+    "name": "Mr. Mucinska",
+    "entity_type": "person",
+    "source_id": 464,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 465,
+    "name": "Mrs. Mucinska",
+    "entity_type": "person",
+    "source_id": 465,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 466,
+    "name": "Sandy Berger",
+    "entity_type": "person",
+    "source_id": 466,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 467,
+    "name": "Paula Halada",
+    "entity_type": "person",
+    "source_id": 467,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 468,
+    "name": "George Goyer",
+    "entity_type": "person",
+    "source_id": 468,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 469,
+    "name": "Igor Zinoviev",
+    "entity_type": "person",
+    "source_id": 469,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 1
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 470,
+    "name": "Mark Tagoya",
+    "entity_type": "person",
+    "source_id": 470,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 471,
+    "name": "Juan Molyneux",
+    "entity_type": "person",
+    "source_id": 471,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 472,
+    "name": "Lisa Summers",
+    "entity_type": "person",
+    "source_id": 472,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "notes": "Auto-created from flight logs",
+      "ds10_mention_count": 2
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 473,
+    "name": "Anonymous Victim",
+    "entity_type": "person",
+    "source_id": 473,
+    "source_table": "persons",
+    "aliases": null,
+    "metadata": {
+      "person_type": "victim",
+      "notes": "Placeholder for unidentified victims in victim_perpetrator_links"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 474,
+    "name": "The 1953 Trust",
+    "entity_type": "organization",
+    "source_id": 1,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "foundation",
+      "jurisdiction": "Virgin Islands"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 475,
+    "name": "Southern Trust Company, Inc.",
+    "entity_type": "shell_company",
+    "source_id": 2,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Virgin Islands"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 476,
+    "name": "Financial Trust, Inc.",
+    "entity_type": "shell_company",
+    "source_id": 3,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 477,
+    "name": "Hyperion Air, LLC",
+    "entity_type": "shell_company",
+    "source_id": 4,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 478,
+    "name": "JSC Interiors, LLC",
+    "entity_type": "shell_company",
+    "source_id": 5,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Unknown"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 479,
+    "name": "Plan D, LLC",
+    "entity_type": "shell_company",
+    "source_id": 6,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Virgin Islands"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 480,
+    "name": "Great St. Jim, LLC",
+    "entity_type": "shell_company",
+    "source_id": 7,
+    "source_table": "organizations",
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Virgin Islands"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 481,
+    "name": "Financial Strategy Group, Ltd.",
+    "entity_type": "shell_company",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Unknown",
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 482,
+    "name": "Hyperion Air, Inc.",
+    "entity_type": "shell_company",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "shell_company",
+      "jurisdiction": "Unknown",
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 483,
+    "name": "Little St. James Island",
+    "entity_type": "location",
+    "source_id": 1,
+    "source_table": "locations",
+    "aliases": null,
+    "metadata": {
+      "address": "U.S. Virgin Islands",
+      "location_type": "island",
+      "known_abuse_location": true
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 484,
+    "name": "9 East 71st Street",
+    "entity_type": "property",
+    "source_id": 2,
+    "source_table": "locations",
+    "aliases": null,
+    "metadata": {
+      "address": "New York, NY",
+      "location_type": "residence",
+      "known_abuse_location": true
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 485,
+    "name": "358 El Brillo Way",
+    "entity_type": "property",
+    "source_id": 3,
+    "source_table": "locations",
+    "aliases": null,
+    "metadata": {
+      "address": "Palm Beach, FL",
+      "location_type": "residence",
+      "known_abuse_location": true
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 486,
+    "name": "Zorro Ranch",
+    "entity_type": "property",
+    "source_id": 4,
+    "source_table": "locations",
+    "aliases": null,
+    "metadata": {
+      "address": "Stanley, NM",
+      "location_type": "ranch",
+      "known_abuse_location": true
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 487,
+    "name": "Great St. James Island",
+    "entity_type": "location",
+    "source_id": 5,
+    "source_table": "locations",
+    "aliases": null,
+    "metadata": {
+      "address": "U.S. Virgin Islands",
+      "location_type": "island"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 488,
+    "name": "9 East 71st Street, NYC",
+    "entity_type": "property",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "address": "New York, NY",
+      "location_type": "residence",
+      "known_abuse_location": true,
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 489,
+    "name": "358 El Brillo Way, Palm Beach",
+    "entity_type": "property",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "address": "Palm Beach, FL",
+      "location_type": "residence",
+      "known_abuse_location": true,
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 490,
+    "name": "Little St. James Island, USVI",
+    "entity_type": "location",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "address": "U.S. Virgin Islands",
+      "location_type": "island",
+      "known_abuse_location": true,
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 491,
+    "name": "Zorro Ranch, Stanley, NM",
+    "entity_type": "property",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "address": "Stanley, NM",
+      "location_type": "ranch",
+      "known_abuse_location": true,
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 492,
+    "name": "Paris apartment, 16th Arrondissement",
+    "entity_type": "property",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "address": "Paris, France",
+      "location_type": "residence",
+      "known_abuse_location": false,
+      "source": "EVIDENCE_COMPILATION.md"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 493,
+    "name": "N908JE (Boeing 727-31)",
+    "entity_type": "aircraft",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "nickname": "Lolita Express",
+      "tail_number": "N908JE",
+      "aircraft_type": "Boeing 727-31",
+      "owner": "Jeffrey Epstein"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 494,
+    "name": "N909JE (Gulfstream II)",
+    "entity_type": "aircraft",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "tail_number": "N909JE",
+      "aircraft_type": "Gulfstream II/SP",
+      "owner": "Jeffrey Epstein"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 495,
+    "name": "N212JE (Cessna 421)",
+    "entity_type": "aircraft",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "tail_number": "N212JE",
+      "aircraft_type": "Cessna 421",
+      "owner": "Jeffrey Epstein"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 496,
+    "name": "N34JE (Helicopter)",
+    "entity_type": "aircraft",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "tail_number": "N34JE",
+      "aircraft_type": "Helicopter",
+      "owner": "Jeffrey Epstein"
+    },
+    "created_at": "2026-02-05 22:53:03"
+  },
+  {
+    "id": 497,
+    "name": "Deutsche Bank",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "bank",
+      "source": "ds10",
+      "notes": "Financial institution with multiple Epstein accounts"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 498,
+    "name": "JPMorgan Chase",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "bank",
+      "source": "ds10",
+      "notes": "Financial institution with Epstein accounts"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 499,
+    "name": "Deutsche Bank Securities Inc.",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "bank",
+      "source": "ds10",
+      "notes": "Securities arm; offered securities through this entity"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 500,
+    "name": "Deutsche Bank Trust Co Americas",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "bank",
+      "source": "ds10",
+      "notes": "Trust subsidiary at 60 Wall St"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 501,
+    "name": "SunTrust",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "bank",
+      "source": "ds10",
+      "notes": "Bank with Epstein-related accounts"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 502,
+    "name": "The Haze Trust",
+    "entity_type": "shell_company",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "foundation",
+      "source": "ds10",
+      "notes": "Trust entity found in DS10 financial documents"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 503,
+    "name": "Insurance Trust",
+    "entity_type": "shell_company",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "foundation",
+      "source": "ds10",
+      "notes": "Epstein insurance trust; beneficiaries include Shuliak, Indyke"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 504,
+    "name": "Caterpillar Trust 2",
+    "entity_type": "shell_company",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "foundation",
+      "source": "ds10",
+      "notes": "Trust entity; Indyke/Kahn connected"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 505,
+    "name": "GSR Mortgage Loan Trust 2005-5F",
+    "entity_type": "shell_company",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "foundation",
+      "source": "ds10",
+      "notes": "Mortgage-backed security in Maxwell accounts"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 506,
+    "name": "FBI",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "government",
+      "source": "ds10",
+      "notes": "Federal Bureau of Investigation"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 507,
+    "name": "MCC New York",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "government",
+      "source": "ds10",
+      "notes": "Metropolitan Correctional Center, New York"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 508,
+    "name": "SDNY",
+    "entity_type": "organization",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "org_type": "government",
+      "source": "ds10",
+      "notes": "Southern District of New York US Attorney's Office"
+    },
+    "created_at": "2026-02-06 00:37:41"
+  },
+  {
+    "id": 509,
+    "name": "Howard Lutnick",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 5,
+      "public_figure": true,
+      "occupation": "CEO Cantor Fitzgerald",
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; alleged financial crimes connection; neighboring property transaction"
+    },
+    "created_at": "2026-02-06 00:37:42"
+  },
+  {
+    "id": 510,
+    "name": "William Barr",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": "[\"Barr\"]",
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 5,
+      "public_figure": true,
+      "occupation": "Former US Attorney General",
+      "ds10_detail": "Named in FBI PROMINENT NAMES briefing; NTOC tip alleging present during abuses; victim encounter at model event"
+    },
+    "created_at": "2026-02-06 00:37:42"
+  },
+  {
+    "id": 511,
+    "name": "Ehud Barak",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "associate",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 7,
+      "public_figure": true,
+      "occupation": "Former Israeli Prime Minister",
+      "ds10_detail": "Breakfast meeting scheduled with Epstein per calendar (EFTA02154241)"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 512,
+    "name": "Tom Barrack",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 4,
+      "public_figure": true,
+      "occupation": "Investor, Colony Capital founder",
+      "ds10_detail": "Scheduling communication for meetings (EFTA02176329)"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 513,
+    "name": "Bob Shapiro",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": "[\"Robert Shapiro\"]",
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 2,
+      "public_figure": true,
+      "occupation": "Attorney",
+      "ds10_detail": "Named in unverified NTOC tip alongside Dershowitz; no contact info provided by tipster"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 514,
+    "name": "Elon Musk",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 6,
+      "public_figure": true,
+      "occupation": "CEO Tesla/SpaceX",
+      "ds10_detail": "Named in single unverified NTOC anonymous tip only; no corroboration; FBI could not follow up (no contact info)"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 515,
+    "name": "Andrew Cuomo",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": "[\"Cuomo\"]",
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 2,
+      "public_figure": true,
+      "occupation": "Former NY Governor",
+      "ds10_detail": "Mentioned in NTOC tip context and FBI PROMINENT NAMES briefing"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 516,
+    "name": "Simon Andriesz",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 2,
+      "occupation": "Unknown",
+      "ds10_detail": "Source of allegations about Lutnick in FBI PROMINENT NAMES briefing"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 517,
+    "name": "Steve Scully",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 2,
+      "occupation": "Unknown",
+      "ds10_detail": "Witness named in FBI PROMINENT NAMES briefing re: Prince Andrew; noted as having criminal history"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 518,
+    "name": "Alfredo Rodriguez",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": "[\"Rodriquez\"]",
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 7,
+      "occupation": "Former Epstein employee",
+      "ds10_detail": "Former Epstein employee; convicted of obstruction; source of black book"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 519,
+    "name": "Nicholas Tartaglione",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 0,
+      "occupation": "Inmate",
+      "ds10_detail": "MCC cellmate with Epstein in SHU before first suicide attempt"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 520,
+    "name": "Efrain Reyes",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 1,
+      "occupation": "Inmate",
+      "ds10_detail": "MCC cellmate released day before Epstein death; interviewed by AUSA"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 521,
+    "name": "Michael Thomas",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 3,
+      "occupation": "MCC Corrections Officer",
+      "ds10_detail": "MCC CO on duty during Epstein death; charged and DPA"
+    },
+    "created_at": "2026-02-06 00:37:43"
+  },
+  {
+    "id": 522,
+    "name": "Tova Noel",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "person_type": "mentioned",
+      "source": "ds10_analysis",
+      "ds10_mention_count": 0,
+      "occupation": "MCC Corrections Officer",
+      "ds10_detail": "MCC CO charged with conspiracy re: Epstein death; DPA"
+    },
+    "created_at": "2026-02-06 00:37:44"
+  },
+  {
+    "id": 523,
+    "name": "Karyna Shuliak",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "source": "ds10_trust_docs",
+      "ds10_mention_count": 112
+    },
+    "created_at": "2026-02-06 00:37:46"
+  },
+  {
+    "id": 524,
+    "name": "Kevin Maxwell",
+    "entity_type": "person",
+    "source_id": null,
+    "source_table": null,
+    "aliases": null,
+    "metadata": {
+      "source": "ds10_trust_docs",
+      "ds10_mention_count": 3
+    },
+    "created_at": "2026-02-06 00:37:46"
+  }
+]
