@@ -1,6 +1,10 @@
 # Epstein Files: Structured Data Exports
 
-Structured data exports from the forensic analysis of the 218GB DOJ Jeffrey Epstein file release (all 12 datasets, 519,548 PDFs, 993,406 pages). Currently working with [r/EricKeller2](https://www.reddit.com/user/EricKeller2/) in order to integrate this data into https://www.epsteinexposed.com/. Message board available at: https://board.epsteinexposed.com/
+Structured data exports from the forensic analysis of the 218GB DOJ Jeffrey Epstein file release (all 12 datasets, 519,548 PDFs, 993,406 pages). Currently working with [r/EricKeller2](https://www.reddit.com/user/EricKeller2/) in order to (fully) integrate this data into https://www.epsteinexposed.com/.
+
+Message board available at: https://board.epsteinexposed.com/
+
+Note the latest release, v2.1, at: https://github.com/rhowardstone/Epstein-research-data/releases/tag/v2.1
 
 **Parent project:** [Epstein-research](https://github.com/rhowardstone/Epstein-research) — 100+ forensic investigation reports with DOJ source citations.
 
