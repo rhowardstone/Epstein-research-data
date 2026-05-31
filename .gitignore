@@ -1,0 +1,6 @@
+# Uncompressed source files (compressed versions are tracked)
+document_summary.csv
+reconstructed_pages_high_interest.json
+
+# Database files (hosted as GitHub Release assets, not in repo)
+*.db.gz

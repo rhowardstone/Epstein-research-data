@@ -1,0 +1,13 @@
+dataset,efta_start,efta_end,url_template,example_url
+1,EFTA00000001,EFTA00003158,https://www.justice.gov/epstein/files/DataSet%201/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%201/EFTA00000001.pdf
+2,EFTA00003159,EFTA00003857,https://www.justice.gov/epstein/files/DataSet%202/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%202/EFTA00003159.pdf
+3,EFTA00003858,EFTA00005586,https://www.justice.gov/epstein/files/DataSet%203/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%203/EFTA00003858.pdf
+4,EFTA00005705,EFTA00008320,https://www.justice.gov/epstein/files/DataSet%204/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%204/EFTA00005705.pdf
+5,EFTA00008409,EFTA00008528,https://www.justice.gov/epstein/files/DataSet%205/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%205/EFTA00008409.pdf
+6,EFTA00008529,EFTA00008998,https://www.justice.gov/epstein/files/DataSet%206/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%206/EFTA00008529.pdf
+7,EFTA00009016,EFTA00009664,https://www.justice.gov/epstein/files/DataSet%207/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf
+8,EFTA00009676,EFTA00039023,https://www.justice.gov/epstein/files/DataSet%208/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%208/EFTA00009676.pdf
+9,EFTA00039025,EFTA01262781,https://www.justice.gov/epstein/files/DataSet%209/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf
+10,EFTA01262782,EFTA02205654,https://www.justice.gov/epstein/files/DataSet%2010/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262782.pdf
+11,EFTA02205655,EFTA02730264,https://www.justice.gov/epstein/files/DataSet%2011/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205655.pdf
+12,EFTA02730265,EFTA02731783,https://www.justice.gov/epstein/files/DataSet%2012/EFTA{XXXXXXXX}.pdf,https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730265.pdf

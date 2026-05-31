@@ -1,0 +1,79 @@
+═══════════════════════════════════════════════════════════════════════════════
+EPSTEIN FILES CORPUS - QUICK REFERENCE COUNTS
+Generated: 2026-02-15 (corrected)
+═══════════════════════════════════════════════════════════════════════════════
+
+WHAT WE HAVE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Documents (EFTA, DS1-12):          1,380,941
+Documents (non-EFTA):                  4,914
+Documents (TOTAL):                 1,385,855
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Pages (EFTA):                      2,731,825  (= 100% of EFTA range)
+Pages (non-EFTA):                     38,329
+Pages (TOTAL):                     2,770,154
+Pages (with text):                 2,768,708  (99.95%)
+Pages (empty):                         1,446  (0.05%)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Images (extracted):                   38,955
+Redactions (individual boxes):     2,587,102
+Transcripts (media files):             1,530
+Persons (registry):                    1,538
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EFTA NUMBERING (CRITICAL):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EFTA numbers are PER-PAGE, consecutive.
+EFTA range: 00000001 to 02731783 = 2,731,783 page-numbers
+Our pages: 2,731,825  →  100.0% coverage (42 extra from native sheets)
+Verified: 99.997% of doc pairs satisfy EFTA# + pages = next EFTA#
+NO documents are withheld within the EFTA numbering system.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GAP TO "3.5 MILLION" CLAIM:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DOJ claim:                         3,500,000 pages
+Pages we have:                     2,770,154
+Shortfall:                           729,846 pages (20.9%)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The 730K gap is NOT from withheld EFTA documents (coverage is 100%).
+It must come from pages outside the EFTA numbering system.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DATASET COVERAGE (page-level):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DS1: 100.0% | DS2: 100.0% | DS3: 100%* | DS4: 100%*
+DS5: 100.0% | DS6: 100%*  | DS7: 100%* | DS8: 100.1%*
+DS9: 100.0% | DS10: 100%* | DS11: ~100% | DS12: 100%*
+
+ * Last doc spans into inter-dataset gap
+ All 12 datasets have complete page-level coverage.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NON-EFTA COLLECTIONS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+House Oversight (DS99): 4,892 docs, 36,903 pages
+FBI Vault (DS98):          22 docs,  1,426 pages
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DATABASE SIZES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+full_text_corpus.db:       6.3 GB
+redaction_analysis_v2.db:  971 MB
+image_analysis.db:         389 MB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KEY TAKEAWAYS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. We have ~2.77M pages — 100% of the EFTA-numbered range
+2. EFTA#s are per-page, consecutive — every number is accounted for
+3. NO documents are withheld within the EFTA system
+4. The 730K gap to DOJ's "3.5M" claim is from pages OUTSIDE the EFTA system
+5. 99.95% of pages have extractable text — no data quality issues
+6. The real transparency question: what are those ~730K non-EFTA pages?
+
+For detailed analysis, see:
+  COUNTING_METHODOLOGY_ANALYSIS.txt
+  MISSING_EFTA_INVESTIGATION.txt
+
+═══════════════════════════════════════════════════════════════════════════════

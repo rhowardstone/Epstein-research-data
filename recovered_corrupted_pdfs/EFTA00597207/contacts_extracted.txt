@@ -1,0 +1,91 @@
+APPLE ADDRESS BOOK CONTACTS EXTRACTED FROM EFTA00597207
+========================================================
+
+Source: Raw disk sectors containing macOS AddressBook.app binary property lists (bplist)
+Location: 8 sectors at 4096-byte aligned offsets (28672-57344) within the PDF file
+Format: Apple Binary PLIST format (bplist00), one contact per 4096-byte sector
+Device: Data co-located with an iPhone 5s photograph dated August 3, 2014 (iOS 7.1.2)
+
+These contacts were recovered from disk sectors that overwrote the middle of a
+linearized PDF during forensic hard drive imaging. The original PDF's 10 page
+images are not recoverable.
+
+------------------------------------------------------------------------
+
+1. [FIRST NAME UNKNOWN] SUSSMAN
+   Phone: (713) 478-6444 (Mobile, Houston TX)
+   Contact created: 2012-02-01
+   Persons registry match: Gerald Sussman
+
+2. KARIM WADE (stored as: First=ME, Middle=Karim, Last=WADE)
+   Email: ME@micatti.gouv.sn (Work)
+   Contact created: 2011-02-04
+   Note: Son of former Senegalese President Abdoulaye Wade; convicted of
+   corruption in 2015 by Senegalese courts. MICATTI = Ministry of
+   International Cooperation, Air Transport, Infrastructure and Energy.
+
+3. JACQUIE [LAST NAME UNKNOWN]
+   Email: Jacquie@greenislandgardens.net (Work)
+   Contact created: 2011-02-04
+   Note: Green Island Gardens
+
+4. GWENDOLYN BECK
+   Email: GBeck111@aol.com (Work)
+   Contact created: 2011-02-04
+   Persons registry match: Gwendolyn Beck (known Epstein associate)
+
+5. JAY LEFKOWITZ
+   Email: JLefkowitz@kirkland.com (Home), lefkowitz@kirkland.com (Work)
+   Phone: (917) 617-2278 (Mobile), (212) 446-4970 (iPhone)
+   Contact created: 2010-12-14
+   Persons registry match: Jay Lefkowitz — Epstein attorney
+   Note: Partner at Kirkland & Ellis LLP; former Bush administration
+   domestic policy advisor
+
+6. MICHAEL WOLFF
+   Email: michael@burnrate.com (Work)
+   Contact created: 2012-02-01
+   Persons registry match: Michael Wolff — Journalist
+   Note: Author/journalist; "Burnrate" (1998) was his book on internet
+   startups; later authored "Fire and Fury" (2018) about the Trump
+   White House
+
+7. J. ROBERT STRANG (stored as: First=Robert, Middle=J., Last=Strang)
+   Email: RJS@investigativemanagement.com (Work)
+   Contact created: 2011-02-04
+   Note: Investigative Management Group — private security and
+   investigations firm
+
+8. JEAN-LUC [LAST NAME UNKNOWN] (stored as: First=Jean, Last=Luc)
+   Email: 2jeanluc@gmail.com (Work)
+   Phone: (646) 961-8500 (Mobile, NYC), +33 1 48 51 97 51 (Home, Paris landline),
+          +33 6 48 51 97 51 (iPhone, France mobile)
+   Contact created: 2012-02-01
+   Note: Contact has both New York City and French phone numbers.
+   The "2jeanluc" email and France numbers are consistent with
+   Jean-Luc Brunel (MC2 Model Management).
+
+------------------------------------------------------------------------
+
+ALSO RECOVERED FROM THIS FILE:
+
+- 1 iPhone 5s photograph (EFTA00597207_embedded_photo.jpg)
+  Date taken: 2014-08-03 09:38:27
+  Camera: Apple iPhone 5s, iOS 7.1.2
+  Original resolution: 3264x2448 (recovered as 640x480 base64 thumbnail)
+  Lens: iPhone 5s back camera 4.12mm f/2.2
+  ISO: 40, Exposure: 1/2740s (bright daylight conditions)
+
+------------------------------------------------------------------------
+
+METHODOLOGY:
+  Contacts extracted by parsing binary PLIST (bplist00) structures found at
+  4096-byte aligned offsets within a file classified as a corrupted PDF.
+  The file is actually a forensic disk image fragment containing interleaved
+  data from multiple sources: PDF objects, Apple Address Book records, and
+  a base64-encoded JPEG photograph.
+
+  Full technical details in README.md.
+
+  Source file: DOJ Epstein Files Dataset 9, EFTA00597207
+  Available at: https://www.justice.gov/epstein/files/DataSet%209/

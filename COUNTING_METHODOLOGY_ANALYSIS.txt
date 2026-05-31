@@ -1,0 +1,183 @@
+═══════════════════════════════════════════════════════════════════════════════
+EPSTEIN FILES CORPUS - COMPREHENSIVE COUNTING & GAP ANALYSIS
+Analysis Date: 2026-02-15 (corrected)
+Database: full_text_corpus.db
+═══════════════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. CRITICAL: HOW EFTA NUMBERING WORKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EFTA numbers are assigned PER PAGE, not per document. A 10-page PDF starting
+at EFTA00000001 consumes EFTA numbers 00000001 through 00000010. The next
+document starts at EFTA00000011.
+
+This means:
+  • EFTA range (00000001 to 02731783) = 2,731,783 PAGE-numbers
+  • Our 1,380,941 documents contain 2,731,825 pages = 100.0% of the range
+  • The 42 extra pages are from native spreadsheet ingestion (extra sheets)
+  • Verified: 99.997% of consecutive doc pairs satisfy EFTA# + pages = next EFTA#
+
+There are NO "withheld" or "missing" EFTA numbers. Every EFTA page-number in
+the range is accounted for by our documents and their page counts.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. DATASET COVERAGE (CORRECTED - per-page, not per-document)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dataset | EFTA Range                    | Page-Nums | Docs    | Pages   | Coverage
+━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━
+DS1     | EFTA00000001-00003158         |     3,158 |   3,158 |   3,158 | 100.0%
+DS2     | EFTA00003159-00003857         |       699 |     574 |     699 | 100.0%
+DS3     | EFTA00003858-00005586         |     1,729 |      67 |   1,847 | 106.8%*
+DS4     | EFTA00005705-00008320         |     2,616 |     152 |   2,704 | 103.4%*
+DS5     | EFTA00008409-00008528         |       120 |     120 |     120 | 100.0%
+DS6     | EFTA00008529-00008998         |       470 |      13 |     487 | 103.6%*
+DS7     | EFTA00009016-00009664         |       649 |      17 |     660 | 101.7%*
+DS8     | EFTA00009676-00039023         |    29,348 |  10,595 |  29,381 | 100.1%*
+DS9     | EFTA00039025-01262781         | 1,223,757 | 531,284 |1,223,761| 100.0%
+DS10    | EFTA01262782-02205654         |   942,873 | 503,154 | 950,101 | 100.8%*
+DS11    | EFTA02205655-02730264         |   524,610 | 331,655 | 517,382 |  98.6%†
+DS12    | EFTA02730265-02731783         |     1,519 |     152 |   1,525 | 100.4%*
+
+ * Coverage >100% because last document in dataset has pages spilling into the
+   inter-dataset gap range (which is filled by that same document's pages).
+ † DS11 shows 98.6% because DS10's last document spills 7,228 pages into DS11's
+   range, which are counted under DS10 in our database.
+
+ALL datasets have ~100% page-level coverage. No documents are withheld.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. INTER-DATASET GAPS EXPLAINED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The EFTA ranges between datasets are NOT missing — they are pages of multi-page
+documents whose first page falls at the end of one dataset:
+
+Gap         | EFTA Range          | Size | Owned By
+━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DS3→DS4     | 00005587-00005704   |  118 | EFTA00005586 (DS3, 119pp)
+DS4→DS5     | 00008321-00008408   |   88 | EFTA00008320 (DS4, 89pp)
+DS6→DS7     | 00008999-00009015   |   17 | EFTA00008998 (DS6, 18pp)
+DS7→DS8     | 00009665-00009675   |   11 | EFTA00009664 (DS7, 12pp)
+DS8→DS9     | 00039024-00039024   |    1 | EFTA00039023 (DS8, 2pp)
+━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━┿━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total       |                     |  235 | All accounted for
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. DATASET CHARACTERISTICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Datasets vary dramatically in document size:
+
+Dataset | Docs    | Pages   | Avg Pages/Doc | Character
+━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━
+DS1     |   3,158 |   3,158 |    1.0        | Mostly single-page
+DS2     |     574 |     699 |    1.2        | Mostly single-page
+DS3     |      67 |   1,847 |   27.6        | Long multi-page docs
+DS4     |     152 |   2,704 |   17.8        | Long multi-page docs
+DS5     |     120 |     120 |    1.0        | All single-page
+DS6     |      13 |     487 |   37.5        | Very long docs
+DS7     |      17 |     660 |   38.8        | Very long docs
+DS8     |  10,595 |  29,381 |    2.8        | Mixed
+DS9     | 531,284 |1,223,761|    2.3        | Mixed (largest set)
+DS10    | 503,154 | 950,101 |    1.9        | Mixed
+DS11    | 331,655 | 517,382 |    1.6        | Mixed
+DS12    |     152 |   1,525 |   10.0        | Multi-page docs
+
+DS3, DS4, DS6, DS7, and DS12 look like they have "low coverage" ONLY if you
+mistakenly compare document count to EFTA range size. They actually contain
+small numbers of very long documents that fully cover their EFTA ranges.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. MULTIPLE COUNTING METHODOLOGIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Method | Description                                     | Count       | Notes
+━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━┿━━━━━━━━
+A      | Unique documents (all types)                    |   1,385,857 | Includes non-EFTA
+A1     | Unique EFTA documents only                      |   1,380,941 | Core dataset
+A2     | Non-EFTA documents                              |       4,916 | Supplemental
+       |                                                 |             |
+B      | Total pages (all documents)                     |   2,770,154 | Each page counted once
+B1     | EFTA pages only                                 |   2,731,825 | = full EFTA range
+B2     | Non-EFTA pages                                  |      38,329 | FBI Vault + House Estate
+       |                                                 |             |
+C      | EFTA numbering range (max - min + 1)            |   2,731,783 | = page count (confirmed)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. NON-EFTA DOCUMENT BREAKDOWN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Category                    | Documents | Pages    | Description
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━
+House Oversight (DS99)      |     4,892 |   36,903 | Congressional investigation
+FBI Vault (DS98)            |        22 |    1,426 | FBI FOIA release (22 parts)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOTAL                       |     4,914 |   38,329 | Supplemental documents
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. THE "3.5 MILLION PAGES" CLAIM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DOJ claimed "approximately 3.5 million pages" of Epstein files.
+
+What we have:
+  EFTA pages:     2,731,825
+  Non-EFTA pages:    38,329
+  TOTAL:          2,770,154 pages
+
+Gap to claim:       729,846 pages (20.9% shortfall)
+
+This gap CANNOT be explained by:
+  • Withheld EFTA documents — 100% of EFTA page-numbers are accounted for
+  • Extraction errors — 99.95% of pages have extractable text
+  • Database corruption — all 12 datasets fully processed and verified
+
+Possible explanations for the 730K page gap:
+  1. DOJ counted pages that were never assigned EFTA numbers (internal/classified)
+  2. DOJ included duplicate copies or working drafts in their count
+  3. DOJ included materials outside the EFTA system (grand jury exhibits, etc.)
+  4. DOJ rounded up significantly from ~2.8M to "approximately 3.5M"
+  5. DOJ counted both sides of double-sided scans as separate pages
+  6. The count included materials subsequently removed before public release
+  7. Additional non-EFTA collections exist that haven't been released
+
+The key finding: Within the EFTA numbering system, coverage is COMPLETE. The
+"3.5M" claim refers to something beyond what was released under EFTA numbers.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. CORPUS TOTALS SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Metric                                      | Count       | Notes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━
+EFTA Documents                              |   1,380,941 | Core DOJ releases
+Non-EFTA Supplemental Documents             |       4,914 | House Estate + FBI Vault
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━
+TOTAL DOCUMENTS                             |   1,385,855 |
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━
+EFTA Pages                                  |   2,731,825 | 100% of EFTA range
+Non-EFTA Pages                              |      38,329 | From supplemental
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━
+TOTAL PAGES                                 |   2,770,154 |
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. DATABASE FILE SIZES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Database                          | Size     | Records/Notes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+full_text_corpus.db               | 6.3 GB   | 1,385,855 docs, 2,770,154 pages
+redaction_analysis_v2.db          | 971 MB   | 2,587,102 redactions
+redaction_analysis_ds10.db        | 532 MB   | DS10-specific
+image_analysis.db                 | 389 MB   | 38,955 images
+transcripts.db                    | 2.5 MB   | 1,530 media files, 375 with speech
+knowledge_graph.db                | 764 KB   | Person/entity relationships
+ocr_database.db                   | 68 MB    | OCR results
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF ANALYSIS
+═══════════════════════════════════════════════════════════════════════════════

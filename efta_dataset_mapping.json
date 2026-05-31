@@ -1,0 +1,98 @@
+[
+  {
+    "dataset": 1,
+    "efta_start": 1,
+    "efta_end": 3158,
+    "efta_start_formatted": "EFTA00000001",
+    "efta_end_formatted": "EFTA00003158",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%201/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 2,
+    "efta_start": 3159,
+    "efta_end": 3857,
+    "efta_start_formatted": "EFTA00003159",
+    "efta_end_formatted": "EFTA00003857",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%202/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 3,
+    "efta_start": 3858,
+    "efta_end": 5586,
+    "efta_start_formatted": "EFTA00003858",
+    "efta_end_formatted": "EFTA00005586",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%203/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 4,
+    "efta_start": 5705,
+    "efta_end": 8320,
+    "efta_start_formatted": "EFTA00005705",
+    "efta_end_formatted": "EFTA00008320",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%204/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 5,
+    "efta_start": 8409,
+    "efta_end": 8528,
+    "efta_start_formatted": "EFTA00008409",
+    "efta_end_formatted": "EFTA00008528",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%205/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 6,
+    "efta_start": 8529,
+    "efta_end": 8998,
+    "efta_start_formatted": "EFTA00008529",
+    "efta_end_formatted": "EFTA00008998",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%206/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 7,
+    "efta_start": 9016,
+    "efta_end": 9664,
+    "efta_start_formatted": "EFTA00009016",
+    "efta_end_formatted": "EFTA00009664",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%207/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 8,
+    "efta_start": 9676,
+    "efta_end": 39023,
+    "efta_start_formatted": "EFTA00009676",
+    "efta_end_formatted": "EFTA00039023",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%208/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 9,
+    "efta_start": 39025,
+    "efta_end": 1262781,
+    "efta_start_formatted": "EFTA00039025",
+    "efta_end_formatted": "EFTA01262781",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%209/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 10,
+    "efta_start": 1262782,
+    "efta_end": 2205654,
+    "efta_start_formatted": "EFTA01262782",
+    "efta_end_formatted": "EFTA02205654",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%2010/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 11,
+    "efta_start": 2205655,
+    "efta_end": 2730264,
+    "efta_start_formatted": "EFTA02205655",
+    "efta_end_formatted": "EFTA02730264",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%2011/EFTA{number}.pdf"
+  },
+  {
+    "dataset": 12,
+    "efta_start": 2730265,
+    "efta_end": 2731783,
+    "efta_start_formatted": "EFTA02730265",
+    "efta_end_formatted": "EFTA02731783",
+    "url_template": "https://www.justice.gov/epstein/files/DataSet%2012/EFTA{number}.pdf"
+  }
+]

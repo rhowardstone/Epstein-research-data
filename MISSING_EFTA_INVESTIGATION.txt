@@ -1,0 +1,95 @@
+═══════════════════════════════════════════════════════════════════════════════
+EFTA NUMBERING SYSTEM - INVESTIGATION & VERIFICATION
+Generated: 2026-02-15 (corrected)
+═══════════════════════════════════════════════════════════════════════════════
+
+PREVIOUS ANALYSIS (INCORRECT):
+  The original analysis compared document counts to EFTA range sizes and
+  concluded that 1,350,607 documents (49.44%) were "withheld." This was wrong.
+  EFTA numbers are assigned PER PAGE, not per document.
+
+CORRECTED FINDING:
+  100% of EFTA page-numbers are accounted for. No documents are withheld
+  within the EFTA numbering system.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HOW EFTA NUMBERING WORKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EFTA numbers are CONSECUTIVE PAGE IDENTIFIERS:
+  • Each page of each document gets a unique sequential EFTA number
+  • A 10-page document starting at EFTA00000001 → EFTA00000001 through 00000010
+  • The next document starts at EFTA00000011
+  • The document's EFTA number (used as filename) is its FIRST page's number
+
+VERIFICATION (across all 1,380,941 documents):
+  • 1,380,896 of 1,380,935 consecutive pairs (99.997%) satisfy:
+    EFTA_number + page_count = next_document's_EFTA_number
+  • The 39 "mismatches" are all NEGATIVE gaps (-36 total) caused by native
+    spreadsheet ingestion adding extra sheet pages to existing documents
+  • Total EFTA range: 00000001 to 02731783 = 2,731,783 page-numbers
+  • Total pages in DB: 2,731,825 (42 more than range, from extra sheets)
+  • Coverage: 100.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTER-DATASET GAPS ARE MULTI-PAGE DOCUMENT SPILLOVER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The EFTA ranges between datasets appeared to be "gaps" but are actually the
+trailing pages of multi-page documents at dataset boundaries:
+
+  DS3→DS4 gap (EFTA00005587-00005704, 118 numbers):
+    → Owned by EFTA00005586 (DS3), a 119-page document
+
+  DS4→DS5 gap (EFTA00008321-00008408, 88 numbers):
+    → Owned by EFTA00008320 (DS4), an 89-page document
+
+  DS6→DS7 gap (EFTA00008999-00009015, 17 numbers):
+    → Owned by EFTA00008998 (DS6), an 18-page document
+
+  DS7→DS8 gap (EFTA00009665-00009675, 11 numbers):
+    → Owned by EFTA00009664 (DS7), a 12-page document
+
+  DS8→DS9 gap (EFTA00039024-00039024, 1 number):
+    → Owned by EFTA00039023 (DS8), a 2-page document
+
+All 235 inter-dataset EFTA numbers are accounted for.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WHY THE ORIGINAL ANALYSIS WAS WRONG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The original analysis treated EFTA numbers as document identifiers:
+  "Expected 2,731,783 documents, found 1,380,941 → 49.44% withheld"
+
+The correct comparison is pages to page-numbers:
+  "Expected 2,731,783 pages, found 2,731,825 → 100.0% coverage"
+
+The confusion arose because:
+  • 1,380,941 documents contain 2,731,825 pages (avg 1.98 pages/doc)
+  • Each document has ONE filename (its first page's EFTA number)
+  • But each document CONSUMES multiple EFTA numbers (one per page)
+  • So 1.38M documents × ~2 pages/doc = ~2.73M EFTA numbers used
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THE REAL QUESTION: WHERE ARE THE OTHER 730K PAGES?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DOJ claimed "approximately 3.5 million pages." We have 2,770,154.
+
+The gap of ~730K pages is NOT explained by withheld EFTA documents (there are
+none). Possible explanations:
+
+  1. Pages outside the EFTA system (classified/internal/grand jury materials)
+  2. DOJ counting methodology differs (e.g., double-sided pages counted twice)
+  3. Duplicate copies or working drafts in DOJ's internal count
+  4. Significant rounding ("approximately" doing heavy lifting)
+  5. Materials removed between counting and public release
+  6. Additional collections that were never EFTA-numbered
+
+This is a legitimate transparency question: what are the ~730K pages the DOJ
+counted but didn't assign EFTA numbers to?
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF INVESTIGATION
+═══════════════════════════════════════════════════════════════════════════════
